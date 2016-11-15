@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Boites de dialogue</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+    <string-array name="couleurs">
+        <item>ROUGE</item>
+        <item>VERT</item>
+        <item>BLEU</item>
+        <item>JAUNE</item>
+    </string-array>
+</resources>
